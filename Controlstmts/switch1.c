@@ -9,7 +9,7 @@ void main()
         case 'a':
         printf("\n a is vowels");
         break;
-        case 'e':
+         case 'e':
         printf("\n e is vowels");
         break;
         case 'i':
