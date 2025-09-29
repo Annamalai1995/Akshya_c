@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 struct Mobile {
     char Model_name[50];
     int Ram, Storage;
