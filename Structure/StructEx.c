@@ -19,10 +19,10 @@ int main() {
     struct mobile mob2 = {"Vivo v20", 8, 128, 25000.5};
 
     struct mobile mob3;
-    printf("Enter model name, RAM, Internal Storage, and Price:\n");
+     printf("Enter model name, RAM, Internal Storage, and Price:\n");
     // scanf(" %[^\n]", mob3.model);  
     scanf("%d %d %lf", &mob3.ram, &mob3.internal, &mob3.price);
-
+  
     print(mob1);
     print(mob2);
     print(mob3);
