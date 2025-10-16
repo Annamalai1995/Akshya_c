@@ -6,7 +6,7 @@ int main()
     float b=5.5;
     //Implicit typecasting(automatic)
     float result=a/b;
-     cout << result;
+    cout << result;
     //Explicit 
     int alpha=5;
     int beta=10;
